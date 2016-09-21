@@ -1,0 +1,8 @@
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\bin\Debug\HDDLED.exe
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\bin\Debug\HDDLED.pdb
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\obj\x86\Debug\HDDLED.Properties.Resources.resources
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\obj\x86\Debug\HDDLED.csproj.GenerateResource.Cache
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\obj\x86\Debug\HDDLED.exe
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\obj\x86\Debug\HDDLED.pdb
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\bin\Debug\HDD_Busy.ico
+C:\Users\Nishu\Documents\Visual Studio 2010\Projects\HDDLED\HDDLED\bin\Debug\HDD_Idle.ico
